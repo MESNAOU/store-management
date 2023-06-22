@@ -1,3 +1,3 @@
 This project is a desktop application for managing a store, including inventory, sales, and more. To begin, it is necessary to import the database that I have placed in the "createDatabase" folder and din't forget to adapt the user and the password of your database in the page src/projet/Data.java in the method "connect()". The interface starts with user identification, with two types of users available: "Admin" and "Worker," each with their own system functionalities. 
-
+![log.png](demo/log.png)
 In the provided database, there are already two users present: "Ikram" an Admin, and "Anass" a Worker. Both users have the same password, which is "mes."
