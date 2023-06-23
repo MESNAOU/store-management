@@ -24,7 +24,7 @@ You can search for an item by name, and a page will display detailed information
 We offer sorting functionalities by category, either "Electroménager" or "Primeur". It displays the items in descending order based on their stock quantity.
 
 ![tri_electro1.png](GestionMagasin/demo/tri_electro1.png)
-![tri_electro2.png](GestionMagasin/demo/tri_electro2.png)
+![tri_elrctro2.png](GestionMagasin/demo/tri_electro2.png)
 
 Same for "Primeur":
 
