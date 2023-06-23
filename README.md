@@ -18,13 +18,16 @@ The second functionality is stock replenishment for an item. If you've noticed, 
 You can search for an item by name, and a page will display detailed information about the items with the same searched name, each on a separate page. These functionalities, along with sorting, are primarily provided for studying the store.
 
 ![search ar.png](GestionMagasin/demo/search_ar.png)
+
 ![resultat search1.png](GestionMagasin/demo/resultat_search1.png)
+
 ![resultat search2.png](GestionMagasin/demo/resultat_search2.png)
 
 We offer sorting functionalities by category, either "Electroménager" or "Primeur". It displays the items in descending order based on their stock quantity.
 
 ![tri_electro1.png](GestionMagasin/demo/tri_electro1.png)
-![tri_elrctro2.png](GestionMagasin/demo/tri_electro2.png)
+
+![tri_elrctro2.png](GestionMagasin/demo/tri_elrctro2.png)
 
 Same for "Primeur":
 
@@ -41,6 +44,7 @@ As you see:
 To return to the initial price, it is necessary to adjust the percentage, specifically using a different value than the reduction percentage.
 
 ![terminer solde.png](GestionMagasin/demo/terminer_solde.png)
+
 ![terminer solde preuve.png](GestionMagasin/demo/terminer_solde_preuve.png)
 
 The Worker's page includes the following functionalities:
@@ -56,4 +60,5 @@ As you see:
 ![sell preuve.png](GestionMagasin/demo/sell_preuve.png)
 
 The other functionalities, such as search and sorting, are similar to those of an administrator. 
+
 That's all, thank you for your attention.
